@@ -1,0 +1,2 @@
+- TypeScript
+  - [TypeScript 之基础类型](/md/typescript/基础类型.md)
